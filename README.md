@@ -1,1 +1,0 @@
-# ampere-s-law.py
